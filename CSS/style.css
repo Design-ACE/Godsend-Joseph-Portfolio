@@ -881,6 +881,10 @@ img{
     z-index: -1;
 }
 
+.light-theme .nav{
+    box-shadow: 0 4px 20px rgba(149, 122, 184, 0.1);
+}
+
 
 /*================ BREAKPOINTS ================*/
 /*For small devices */
